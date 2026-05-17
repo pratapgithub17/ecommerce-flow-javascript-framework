@@ -1,0 +1,10 @@
+
+{
+  "emailId": "pratap.sdet@gmail.com",
+  "password": "Pratap@321",
+  "productName": "ADIDAS ORIGINAL",
+  "productID":"68a961719320a140fe1ca57c",
+  "countryInput": " India",
+  "loginPageUrl": "https://rahulshettyacademy.com/client/#/auth/login",
+  "dashBoardUrl": "https://rahulshettyacademy.com/client/#/dashboard/dash"
+}
