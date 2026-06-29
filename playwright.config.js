@@ -14,7 +14,9 @@ export default defineConfig({
   testDir: './tests',
   /* Run tests in files in parallel */
 
-   reporter: [['html'],
+   reporter: [
+               ['html'],
+              ['junit', { outputFile: 'test-results/e2e-junit-results.xml' }],
        
 ],
   
